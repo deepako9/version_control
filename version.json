@@ -1,4 +1,5 @@
 {
-  "latest_version": "26.4",
-  "download_url": "https://drive.google.com/file/d/1zRS-D1PtyGdfx1u6iGFz6oDFbD6FtNMp/view?usp=sharing"
+  "latest_version": "26.5",
+  "download_url": "https://drive.google.com/file/d/10AjW8syP9v-8GTyWd1OycXuwHXTqRmgy/view?usp=sharing",
+  "release_notes": "Tenant Extractor: Added C2 Support. \nDataset Multiplier Added."
 }

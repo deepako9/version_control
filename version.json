@@ -1,5 +1,5 @@
 {
   "latest_version": "26.5.1",
   "download_url": "https://drive.google.com/file/d/19e3_c54WbbEBp_qT8GOfljS-q12EHv7m/view?usp=sharing",
-  "release_notes": "Tenant Extractor: Added C2 Support. \nDataset Multiplier Added. \nTestCase Extractor:Fixed Issued for Wiping Session Data"
+  "release_notes": "Tenant Extractor: Added C2 Support. \nDataset Multiplier Added. \nTestCase Extractor:Fixed Issue for Wiping Session Data"
 }

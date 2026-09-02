@@ -1,5 +1,5 @@
 {
-  "latest_version": "26.7",
-  "download_url": "https://drive.google.com/file/d/1xxhnFTlT0E8mHdT2y928jG3j3cOghY5F/view?usp=sharing",
-  "release_notes": "Added Dependency Graph Generator."
+  "latest_version": "26.9",
+  "download_url": "https://drive.google.com/file/d/1uM6OZTy8oWn1FFt7Q0FmBJ6QDQXUZ-7D/view?usp=drive_link",
+  "release_notes": "Bug Fix: Logs Analyzer reported No Solver Data Found for logs that did contain solver runs due to case sensitively log parsing (reported by mohammed.raheem@o9solutions.com & adarshika.jaiswal@o9solutions.com).\nBug Fix: Execution Time (hh:mm:ss) rendered durations over an hour with total minutes (7129s showed as 01:118:49 instead of 01:58:49), and could render a :60 seconds field. (reported by abhishek.hanumantha@o9solutions.com)"
 }

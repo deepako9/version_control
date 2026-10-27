@@ -1,5 +1,5 @@
 {
-  "latest_version": "26.11",
-  "download_url": "https://drive.google.com/file/d/1aPPtLw1MESA5WiV1eMczOLAHxCsTjbke/view?usp=sharing",
-  "release_notes": "Plugin Profiler Added. Improved Log Analyzer with Pyspark tab."
+  "latest_version": "26.12",
+  "download_url": "https://drive.google.com/file/d/1lwJyMCTrgX8MfS1aEaIofKLd_NOAMpSs/view?usp=sharing",
+  "release_notes": "The Plugin Profiler gets a Batch tab that splits tenant log exports into batches and shows where each procedure and plug-in spent its time."
 }

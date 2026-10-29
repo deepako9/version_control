@@ -1,5 +1,5 @@
 {
-  "latest_version": "26.12",
-  "download_url": "https://drive.google.com/file/d/1lwJyMCTrgX8MfS1aEaIofKLd_NOAMpSs/view?usp=sharing",
-  "release_notes": "The Plugin Profiler gets a Batch tab that splits tenant log exports into batches and shows where each procedure and plug-in spent its time."
+  "latest_version": "26.13",
+  "download_url": "https://drive.google.com/file/d/1xb1pNk5AEBXs_866DM8R-qdqMrIcQkrO/view?usp=sharing",
+  "release_notes": "The Logs Analyzer reads batch runs right: PySpark and Python plug-ins show their real status, executor sizes and where their time went before, during and after the script, and every run or query that hit an error says why."
 }

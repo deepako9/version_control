@@ -1,5 +1,5 @@
 {
   "latest_version": "26.13",
-  "download_url": "https://drive.google.com/file/d/1xb1pNk5AEBXs_866DM8R-qdqMrIcQkrO/view?usp=sharing",
+  "download_url": "https://drive.google.com/file/d/1tltEFaYnx9VA6vnDQWm3dNZ0TNElOpOA/view?usp=sharing",
   "release_notes": "The Logs Analyzer reads batch runs right: PySpark and Python plug-ins show their real status, executor sizes and where their time went before, during and after the script, and every run or query that hit an error says why."
 }
